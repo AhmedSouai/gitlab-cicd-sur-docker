@@ -55,7 +55,7 @@ Elle garantit que chaque commit est testé et que les déploiements sont fiables
 ## ⚡ Conclusion
 
 Cette pipeline CI/CD rend le processus de développement et de déploiement **rapide, sûr et reproductible**, tout en offrant la possibilité de tester chaque version avant de la mettre en production.  
-Elle est adaptée pour des environnements Docker et peut être adaptée pour des VMs classiques si nécessaire.
+Elle est adaptée pour des environnements Docker
 
 ## Capture d'écran 
 <img width="2293" height="782" alt="Capture d’écran 2026-02-08 154619" src="https://github.com/user-attachments/assets/33defeb6-dd63-48ed-a05f-52f10ab650e9" />
