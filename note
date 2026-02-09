@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+sudo apt update && sudo apt upgrade -y
+sudo apt install curl
+curl -fsSL https://get.docker.com -o install-docker.sh
+sudo sh install-docker.sh
+sudo usermod-aG docker {utilisateur}
+sudo systemctl enable docker
+sudo systemctl start docker
