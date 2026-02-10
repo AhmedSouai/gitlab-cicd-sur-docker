@@ -1,5 +1,8 @@
 # Pipeline CI/CD pour Mini-Projet GitLab sur l'environnement Docker
 
+
+<img width="914" height="685" alt="Schéma de Pipeline CI_CD - visual selection" src="https://github.com/user-attachments/assets/23f037de-9dda-4a0b-9507-1ff41a39b6ab" />
+
 ## 🎯 Objectif
 
 Cette pipeline GitLab CI/CD automatise le **build, test, release et déploiement** de l'application Docker sur différents environnements (`REC`, `PREPROD`, `PROD`).  
